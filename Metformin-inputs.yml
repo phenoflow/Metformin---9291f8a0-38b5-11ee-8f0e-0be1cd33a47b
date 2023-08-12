@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/metformin-p8-rosiglitazone---primary.py
+inputModule3:
+  class: File
+  path: python/metformin-p8-sugar---primary.py
+inputModule4:
+  class: File
+  path: python/metformin-p8-avandamet---primary.py
+inputModule5:
+  class: File
+  path: python/metformin-p8-glucophage---primary.py
+inputModule6:
+  class: File
+  path: python/metformin-p8-pioglitazone---primary.py
+inputModule7:
+  class: File
+  path: python/metformin-p8-500mg---primary.py
+inputModule8:
+  class: File
+  path: python/metformin-p8-glucamet---primary.py
+inputModule9:
+  class: File
+  path: python/metformin-p8-orabet---primary.py
+inputModule10:
+  class: File
+  path: python/metformin-p8-850mg---primary.py
+inputModule11:
+  class: File
+  path: python/metformin-p8-solution---primary.py
+inputModule12:
+  class: File
+  path: python/metformin-p8-750mg---primary.py
+inputModule13:
+  class: File
+  path: python/metformin-p8-eucrea---primary.py
+inputModule14:
+  class: File
+  path: python/metformin-p8-bolamyn---primary.py
+inputModule15:
+  class: File
+  path: python/metformin-p8-modifiedrelease---primary.py
+inputModule16:
+  class: File
+  path: python/metformin-p8-sachet---primary.py
+inputModule17:
+  class: File
+  path: python/metformin-p8-metabet---primary.py
+inputModule18:
+  class: File
+  path: python/metformin-p8-1000mg---primary.py
+inputModule19:
+  class: File
+  path: python/metformin-p8-tablet---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
